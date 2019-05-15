@@ -1,4 +1,10 @@
 # vue-admin
+## 技术栈
+
+```
+vue+vuex+elementui+vue-router+mock+echart 
+```
+
 
 ## 安装依赖
 ```
